@@ -1,0 +1,3 @@
+spring:
+  sever:
+    prot: 8080
