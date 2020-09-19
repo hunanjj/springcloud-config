@@ -1,3 +1,2 @@
-spring:
-  sever:
-    prot: 8080
+config:
+  info: id1
